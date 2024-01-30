@@ -1,5 +1,7 @@
 # Image processing pipeline and hit calling code for article submission NCB-A51759A
 
+<p align="left"><img src="graphical_abstract.png " width="600"/></p>
+
 **Contents**
 - `pipeline_control_script`: used to control the pipeline run, specifies paths to datasets and all processing parameters; generates bash scripts ran by slurm; takes care of parallelization where necessary
 - `pipeline_modules`: standalone python scripts invoked by individual parts of the pipeline
