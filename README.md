@@ -2,7 +2,8 @@
 
 **Contents**
 - `pipeline_control_script`: used to specify paths to datasets and all processing parameters; generates bash scripts ran by slurm; takes care of parallelization where necessary
-- `pipeline_modules`: standalone python scripts which are comprise the image processing pipeline
-- `hit_calling`: transforms output of the pipeline into list of hit candidates
+- `pipeline_modules`: standalone python scripts are invoked by different parts of the pipeline
+- `hit_calling`: transforms output of the pipeline into a list of hit candidates
 - `cellprofiler_pipeline`: input file for CellProfiler - specifies modules used and features to extract
 - `conda_environments`: list of installed packages and their versions
+  
