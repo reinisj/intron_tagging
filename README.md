@@ -1,6 +1,6 @@
 # Image processing pipeline and hit calling code for article submission NCB-A51759A
 
-<p align="center"><img src="graphical_abstract.png " width="800"/></p>
+<p align="center"><img src="graphical_abstract.png "/></p>
 
 **Contents**
 - `pipeline_control_script`: used to control the pipeline run, specifies paths to datasets and all processing parameters; generates bash scripts ran by slurm; takes care of parallelization where necessary
