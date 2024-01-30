@@ -6,5 +6,5 @@
 - `hit_calling`: transforms output of the pipeline into a list of hit candidates
 - `cellprofiler_pipeline`: input file for CellProfiler - specifies modules used and features to extract
 - `model_training`: training of the random forest models for clone discrimination
-- `conda_environments`: list of installed packages and their versions
+- `conda_environments`: list of packages and versions
   
