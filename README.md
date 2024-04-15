@@ -1,4 +1,7 @@
-# Image processing pipeline and hit calling code for article submission NCB-A51759A
+# Pooled multicolour tagging for visualizing subcellular protein dynamics
+
+Image processing pipeline and detecting drug-induced changes to proteins for article [**Reicher&ast;, Reiniš&ast;, et al. Nature Cell Biology, 2024.**](https://www.google.com](https://www.nature.com/articles/s41556-024-01407-w
+)
 
 <p align="center"><img src="graphical_abstract2.png "/></p>
 
